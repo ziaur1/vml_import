@@ -11,9 +11,9 @@
     ],
 
 	"repositories": {
-        "ziaur1/Vml_import": {
+        "ziaur1/vml_import": {
             "type": "git",
-            "url": "https://github.com/ziaur1/Vml_import"
+            "url": "https://github.com/ziaur1/vml_import"
         }
     },
 
